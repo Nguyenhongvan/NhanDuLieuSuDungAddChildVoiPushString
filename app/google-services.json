@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "218212598185",
+    "firebase_url": "https://nhandulieusudungpushstring.firebaseio.com",
+    "project_id": "nhandulieusudungpushstring",
+    "storage_bucket": "nhandulieusudungpushstring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218212598185:android:4958361ae805e40a",
+        "android_client_info": {
+          "package_name": "com.vansuzy.nhandulieusudungaddchildvoipushstring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218212598185-d6fqmehfhon4oran7sh8ej6ejc6276i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_expR6ZO33eN8yRUjGXANva_vsND4vg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
